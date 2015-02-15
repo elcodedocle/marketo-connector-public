@@ -23,9 +23,9 @@ _Main functionality changes/patches only. Functionality marked with an asterisk 
 0.7 Automatic campaign scheduling (&#42;)<br/>
 0.6 AJAX support on posts filtering, better encapsulation and improved performance (&#42;)<br/>
 0.5 Posts filtering (&#42;)<br/>
-0.4 mForm shortcode processing (&#42;)<br/>
+0.4 mForm shortcode processing<br/>
 0.3 mSeg shortcode processing (&#42;)<br/>
-0.2 Munchkin code embedding (&#42;)<br/>
+0.2 Munchkin code embedding<br/>
 0.1 getLead shortcode processing (&#42;)<br/>
 
 ## Acknowledgments
