@@ -2,7 +2,7 @@ Marketo WordPress Connector (GPLv2 release)
 ===========================================
 ####*Connect Marketo and WordPress seamlessly*
 
- Copyright (C) 2015 Hooshmarketing<br/>
+ Copyright (C) 2015 [Hooshmarketing.com](http://www.hooshmarketing.com)<br/>
  License: [GPLv2][1]
 ‎
 ## About the project
