@@ -15,25 +15,24 @@ Marketo Connector for WordPress (Public GPLv2 cut down release)
 
 ## Changelog
 
-__Main functionality changes/patches only. Functionality marked with an asterisk is only available in proprietary version of the plugin.__
+_Main functionality changes/patches only. Functionality marked with an asterisk is only available in proprietary version of the plugin._
 
-[*] 1.0 Nested mSeg shortcodes, shortcode generator
-[*] 0.9 Subscriber syncing on log in, improved lead query caching
-[*] 0.8 Credentials validation, notifications, mSeg wildcards
-[*] 0.7 Automatic campaign scheduling
-[*] 0.6 AJAX support on posts filtering, better encapsulation and improved performance
-[*] 0.5 Posts filtering
-    0.4 mForm shortcode processing
-[*] 0.3 mSeg shortcode processing
-    0.2 Munchkin code embedding
-[*] 0.1 getLead shortcode processing
+1.0 Nested mSeg shortcodes, shortcode generator (&#42;)<br/>
+0.9 Subscriber syncing on log in, improved lead query caching (&#42;)<br/>
+0.8 Credentials validation, notifications, mSeg wildcards (&#42;)<br/>
+0.7 Automatic campaign scheduling (&#42;)<br/>
+0.6 AJAX support on posts filtering, better encapsulation and improved performance (&#42;)<br/>
+0.5 Posts filtering (&#42;)<br/>
+0.4 mForm shortcode processing (&#42;)<br/>
+0.3 mSeg shortcode processing (&#42;)<br/>
+0.2 Munchkin code embedding (&#42;)<br/>
+0.1 getLead shortcode processing (&#42;)<br/>
 
 ## Acknowledgments
 
  * [Hooshmarketing](http://www.hooshmarketing.com), for liberating the source code of the app.
  * [Justin Villocido](https://bitbucket.org/barudo), lead developer of the project since the release of v0.8, who also put together this open sourced cut down version.
 
-## Want to contribute?
 
 [1]: http://www.gnu.org/licenses/gpl-2.0.html
 
