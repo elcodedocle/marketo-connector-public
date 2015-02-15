@@ -15,7 +15,7 @@ Marketo WordPress Connector (GPLv2 release)
 
 ## Changelog
 
-_Main functionality changes/patches only. Functionality marked with an asterisk is only available in proprietary version of the plugin._
+_Main functionality changes/patches only. Functionality marked with an asterisk is only available in the proprietary version of the plugin._
 
 1.0 Nested mSeg shortcodes, shortcode generator (&#42;)<br/>
 0.9 Subscriber syncing on log in, improved lead query caching (&#42;)<br/>
