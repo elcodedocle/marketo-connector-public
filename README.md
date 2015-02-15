@@ -1,5 +1,5 @@
-Marketo Connector for WordPress (Public GPLv2 cut down release)
-===============================================================
+Marketo WordPress Connector (GPLv2 cut down release)
+====================================================
 ####*Connect Marketo and WordPress seamlessly*
 
  Copyright (C) 2015 Hooshmarketing<br/>
